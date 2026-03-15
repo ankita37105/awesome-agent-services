@@ -21,6 +21,7 @@ This list covers the **infrastructure layer** — services where the primary use
 - [🏗️ Sandboxes & Compute](#️-sandboxes--compute)
 - [📊 Observability & Monitoring](#-observability--monitoring)
 - [🤝 Coordination & Orchestration](#-coordination--orchestration)
+- [🚀 Orchestration Frameworks](#-orchestration-frameworks)
 - [💼 Marketplaces & Earn](#-marketplaces--earn)
 - [🆔 Identity & Auth](#-identity--auth)
 - [📞 Voice & Phone](#-voice--phone)
@@ -110,6 +111,58 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Google A2A](https://github.com/google/A2A) | Agent-to-Agent protocol by Google — discovery, task management, streaming | Google (open spec) |
 | [Anthropic MCP](https://modelcontextprotocol.io) | Model Context Protocol — standard for connecting agents to tools & data | Anthropic (open spec) |
 | [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) | Agent orchestration with handoffs, guardrails, tracing | OpenAI (open source) |
+
+## 🚀 Orchestration Frameworks
+
+> Frameworks for building, running, and coordinating multi-agent systems.
+
+### Company / OS-level
+
+| Framework | Stars | What it does |
+|-----------|-------|-------------|
+| [Paperclip](https://github.com/paperclipai/paperclip) | 23K | "Paperclip = company, OpenClaw = employee" — org charts, budgets, governance for AI teams | Open source |
+| [Spacebot](https://github.com/spacedriveapp/spacebot) | 1.8K | Multi-user agent platform — 8-tier memory, circuit breakers, Cortex bulletin system | Open source (Rust) |
+
+### Multi-agent frameworks
+
+| Framework | Stars | What it does |
+|-----------|-------|-------------|
+| [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 182K | The original autonomous agent — spawned the entire genre | Open source |
+| [MetaGPT](https://github.com/FoundationAgents/MetaGPT) | 65K | Multi-role software company: PM → Architect → Dev → QA in one pipeline | Open source |
+| [AutoGen](https://github.com/microsoft/autogen) | 55K | Conversational multi-agent coordination by Microsoft | Open source |
+| [CrewAI](https://github.com/crewAIInc/crewAI) | 46K | Role-playing autonomous agents with task delegation | Open source |
+| [Agno](https://github.com/agno-agi/agno) | 38K | Build, run, manage agentic software at scale | Open source |
+| [ChatDev](https://github.com/OpenBMB/ChatDev) | 31K | Virtual software company via LLM multi-agent collaboration | Open source |
+| [Camel](https://github.com/camel-ai/camel) | 16K | First multi-agent framework — role-playing, communicative agents | Open source |
+| [Swarms](https://github.com/kyegomez/swarms) | 5.9K | Enterprise-grade production multi-agent orchestration | Open source |
+| [Agency Swarm](https://github.com/VRSEN/agency-swarm) | 4K | Reliable role-based agent teams | Open source |
+
+### Graph / pipeline frameworks
+
+| Framework | Stars | What it does |
+|-----------|-------|-------------|
+| [LangGraph](https://github.com/langchain-ai/langgraph) | 26K | Stateful agents as graphs with built-in checkpointing | Open source |
+| [Flowise](https://github.com/FlowiseAI/Flowise) | 50K | Visual drag-and-drop agent builder | Open source |
+| [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 27K | Microsoft SDK for agent apps (.NET, Python, Java) | Open source |
+| [PydanticAI](https://github.com/pydantic/pydantic-ai) | 15K | Type-safe agent framework | Open source |
+
+### Workflow engines (AI-ready)
+
+| Framework | Stars | What it does |
+|-----------|-------|-------------|
+| [n8n](https://github.com/n8n-io/n8n) | 179K | No-code workflow automation with native AI nodes | Fair-code |
+| [Conductor](https://github.com/conductor-oss/conductor) | 31K | Event-driven agentic orchestration, durable execution | Open source |
+| [Temporal](https://github.com/temporalio/temporal) | 18K | Durable workflow execution — survives crashes, retries | Open source |
+| [Prefect](https://github.com/PrefectHQ/prefect) | 21K | Python workflow orchestration with observability | Open source |
+| [Inngest](https://github.com/inngest/inngest) | 5K | Durable step functions and AI agents, serverless | Open source |
+
+### Git-native coordination
+
+| Framework | Stars | What it does |
+|-----------|-------|-------------|
+| [GNAP](https://github.com/farol-team/gnap) | 20 | Git-Native Agent Protocol — coordinate agents via git push/pull, zero infrastructure | Open source |
+| [GitClaw](https://github.com/open-gitagent/gitclaw) | 140 | Agent-as-repo: identity, memory, tools, skills all version-controlled | Open source |
+| [jj-mailbox](https://github.com/MiaoDX/jj-mailbox) | 2 | Maildir for agents — structured message passing via jj VCS | Open source |
 
 ## 💼 Marketplaces & Earn
 
