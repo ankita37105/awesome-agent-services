@@ -56,6 +56,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | Service | What it does | Funding / Status |
 |---------|-------------|-----------------|
 | [Lightpanda](https://lightpanda.io) | Headless browser for AI agents — 11x faster than Chrome, 9x less memory, CDP compatible | Open source (13.7k ⭐, Zig, AGPL-3.0) |
+| [Agent-Browser](https://github.com/vercel/agent-browser) | Real Chromium browser for agents by Vercel — navigate pages, click buttons, fill forms, take screenshots | Vercel (open source) |
 | [Browserbase](https://browserbase.com) | Cloud browser infrastructure for agents — sessions, stealth, recordings | Notable Capital backed |
 | [Steel Browser](https://github.com/steel-dev/steel-browser) | Open-source browser API for agents — sessions, anti-detection, Playwright | Open source |
 | [Hyperbrowser](https://hyperbrowser.ai) | AI-native browser infra built for agents (YC W25) | Y Combinator |
@@ -67,6 +68,7 @@ This list covers the **infrastructure layer** — services where the primary use
 
 | Service | What it does | Funding / Status |
 |---------|-------------|-----------------|
+| [QMD](https://github.com/tobi/qmd) | Local hybrid search for markdown files by Shopify CEO Tobias Lütke — BM25 + vector search + LLM re-ranking, zero API keys; connect Notion for real agent memory | Open source |
 | [Mem0](https://mem0.ai) | Memory layer for agents — extract, store, retrieve across sessions | Open source + cloud |
 | [Zep](https://getzep.com) | Context engineering platform — temporal knowledge graph, 200ms retrieval | Active |
 | [Letta](https://letta.com) | Stateful agents with self-editing memory (formerly MemGPT) | Open source + cloud |
