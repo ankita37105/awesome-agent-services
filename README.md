@@ -63,6 +63,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [browser-use](https://github.com/browser-use/browser-use) | Make websites accessible for AI agents — Playwright automation | Open source (56k+ ⭐) |
 | [Firecrawl](https://firecrawl.dev) | Turn websites into agent-ready data — crawl, scrape, extract | Active |
 | [Scrapybara](https://scrapybara.com) | Virtual desktops for AI agents — full computer access | Active |
+| [cua](https://github.com/trycua/cua) | Open-source Docker container for computer-use agents — macOS VMs, GUI automation, keyboard/mouse control | Y Combinator (YC X25, 172 HN pts) |
 
 ## 🧠 Memory & Context
 
@@ -84,6 +85,8 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Toolhouse](https://toolhouse.ai) | Cloud tool infrastructure for agents — run tools without managing servers | Active |
 | [StackOne](https://stackone.com) | Unified API for agent integrations — HR, CRM, ATS | Active |
 | [Merge](https://merge.dev) | Unified API for agent-accessible integrations (HRIS, ATS, CRM, etc.) | Active |
+| [Airweave](https://airweave.ai) | Context retrieval layer for agents — search any SaaS app or database (Salesforce, GitHub, Slack, 100+ connectors) | Y Combinator (YC X25, 176 HN pts) |
+| [Metorial](https://metorial.com) | Vercel for MCP — deploy, host, and version MCP servers with one command | Y Combinator (YC F25, 59 HN pts) |
 
 ## 🏗️ Sandboxes & Compute
 
@@ -93,6 +96,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Cloudflare Agents](https://developers.cloudflare.com/agents/) | Serverless agent platform — durable state, cron, WebSockets, any model | Cloudflare (public) |
 | [Modal](https://modal.com) | Serverless compute for agent workloads — GPU, CPU, cron | Active |
 | [Fly.io](https://fly.io) | Run agent containers globally — Machines API, per-user isolation | Active |
+| [Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/) | Managed production runtime for AI agents at any scale — memory, auth, code interpreter, gateway, observability | AWS (public, 663 GitHub stars) |
 
 ## 📊 Observability & Monitoring
 
@@ -181,6 +185,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) | Ethereum standard for verifiable AI agent identity | EIP (draft) |
 | [Skyfire KYA](https://skyfire.xyz/product/) | Know Your Agent — agent identity verification for commerce | Part of Skyfire |
 | [Anon](https://anon.com) | Auth proxy — let agents use services with your credentials securely | Active |
+| [Kontext](https://kontext.dev) | Identity infrastructure for AI agents — runtime credentials, act on behalf of users with full audit trail | Launched Mar 2026 |
 
 ## 📞 Voice & Phone
 
