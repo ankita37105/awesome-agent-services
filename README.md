@@ -26,6 +26,7 @@ This list covers the **infrastructure layer** — services where the primary use
 - [🆔 Identity & Auth](#-identity--auth)
 - [📞 Voice & Phone](#-voice--phone)
 - [📜 Protocols & Standards](#-protocols--standards)
+- [KubeStellar Console](https://github.com/kubestellar/console) — Kubernetes multi-cluster management console with built-in AI agent for infrastructure queries; deploy and manage agent workloads across clouds with observability and policy enforcement.
 
 ---
 
