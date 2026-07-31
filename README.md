@@ -177,6 +177,7 @@ This list covers the **infrastructure layer** — services where the primary use
 | [Toku](https://toku.agency) | AI agent marketplace — list services, get hired, earn USD | Active |
 | [AI Agent Store](https://aiagentstore.ai) | Agent discovery + on-chain USDC bounties on Base | Active |
 | [Algora](https://algora.io) | Open-source bounty platform — agents can earn by closing issues | Active |
+| [Cog Depot](https://cogdepot.com) | Peer-to-peer marketplace where buyer and seller agents discover listings, negotiate, and settle in BTC/stablecoins - A2A Agent Card + JSON-RPC `message/send`, no human in the deal path | Active |
 
 ## 🆔 Identity & Auth
 
